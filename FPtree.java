@@ -4,11 +4,7 @@
 /*                                                                            */
 /*                                 Frans Coenen                               */
 /*                                                                            */
-/*                                 25 May 2001                                */
-/*                    (Revised 5 February 2003, 3 February 2006)              */ 
 /*                                                                            */
-/*                        Department of Computer Science                      */
-/*                          The University of Liverpool                       */
 /*                                                                            */
 /* -------------------------------------------------------------------------- */
 
@@ -1047,4 +1043,5 @@ public class FPtree extends TotalSupportTree {
 	System.out.println();
 	}
     }
+
 
