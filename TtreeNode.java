@@ -1,13 +1,5 @@
 /* ------------------------------------------------------------------------- */
-/*                                                                           */
-/*                           TOTAL SUPPORT TREE BODE                         */
-/*                                                                           */
-/*                                Frans Coenen                               */
-/*                                                                           */
-/*                            Wednesday 2 July 2003                          */
-/*                                                                           */
-/*                       Department of Computer Science                      */
-/*                         The University of Liverpool                       */
+/*                                             Mital Ahir
 /*                                                                           */ 
 /* ------------------------------------------------------------------------- */
 
@@ -55,4 +47,5 @@ public class TtreeNode {
         return(numberOfNodes);
 	}
     }
+
 
