@@ -4,12 +4,6 @@
 /*                                                                           */
 /*                                Frans Coenen                               */
 /*                                                                           */
-/*                               10 January 2003                             */
-/*  (Revised 23/1/3003, 8/2/2003, 18/3/2003, 3/3/2003, 7/4/2004, 19/1/2005,  */
-/*				  3/2/2006)                                  */
-/*                                                                           */
-/*                       Department of Computer Science                      */
-/*                         The University of Liverpool                       */
 /*                                                                           */ 
 /* ------------------------------------------------------------------------- */
 
@@ -631,4 +625,5 @@ public class TotalSupportTree extends AssocRuleMining {
     }
     
     
+
 
