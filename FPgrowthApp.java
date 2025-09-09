@@ -4,11 +4,7 @@
 /*                                                                        */
 /*                             Frans Coenen                               */
 /*                                                                        */
-/*                       Thursday 5th February 2003                       */
-/*                Minor modifications: Wednesday 8 October 2008           */
 /*                                                                        */
-/*                     Department of Computer Science                     */
-/*                      The University of Liverpool                       */
 /*                                                                        */ 
 /* ---------------------------------------------------------------------- */
 
