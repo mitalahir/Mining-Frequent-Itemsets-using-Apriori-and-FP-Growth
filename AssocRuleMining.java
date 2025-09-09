@@ -4,12 +4,6 @@
 /*                                                                            */
 /*                            Frans Coenen                                    */
 /*                                                                            */
-/*                        Wednesday 9 January 2003                            */
-/*   (revised 21/1/2003, 14/2/2003, 2/5/2003, 2/7/2003, 3/2/2004, 8/5/2004,   */
-/*                           1/2/2005, 3/2/2005)                              */
-/*                                                                            */
-/*                    Department of Computer Science                          */
-/*                     The University of Liverpool                            */
 /*                                                                            */ 
 /* -------------------------------------------------------------------------- */
 
@@ -1618,4 +1612,5 @@ public class AssocRuleMining extends JFrame {
 	return(number);
 	}    
     }
+
 
